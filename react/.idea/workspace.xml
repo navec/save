@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29a2817b-370e-46b9-acb4-50475f457119" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/todomvc/cypress/integration/todomvc.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todomvc/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todomvc/src/TodoInput.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todomvc/src/TodoItem.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todomvc/src/TodoList.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todomvc/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todomvc/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/todomvc/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todomvc/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/todomvc/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todomvc/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/todomvc/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todomvc/src/App.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/todomvc" />
+  </component>
+  <component name="ProjectId" id="1TbC0IqQRNTLJMWplk60S5mya63" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nextjs/projet/frontend" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/todomvc/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/todomvc" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29a2817b-370e-46b9-acb4-50475f457119" name="Default Changelist" comment="" />
+      <created>1573719183383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573719183383</updated>
+      <workItem from="1573719184559" duration="29308000" />
+      <workItem from="1573823964461" duration="2878000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

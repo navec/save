@@ -1,0 +1,10 @@
+
+asquid:S1192$"JDefine a constant instead of duplicating this literal "firstName" 3 times.(Á­Ë•
+usquid:UselessImportCheck"QRemove this unused import 'org.apache.http.client.methods.CloseableHttpResponse'.(©£çË
+esquid:S1192%"IDefine a constant instead of duplicating this literal "lastName" 3 times.(™ëï•ÿÿÿÿÿ
+asquid:S1192"JDefine a constant instead of duplicating this literal "pageCount" 3 times.(àù÷É
+_squid:S1192"IDefine a constant instead of duplicating this literal "authorId" 4 times.(Êãé.
+psquid:UselessImportCheck"LRemove this unused import 'org.apache.http.impl.client.CloseableHttpClient'.(´—Óµ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ
+hsquid:UselessImportCheck"DRemove this unused import 'org.apache.http.impl.client.HttpClients'.(§¹øÿ
+gsquid:UselessImportCheck"CRemove this unused import 'org.apache.http.client.methods.HttpGet'.(‡Ê’Ú
